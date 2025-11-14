@@ -8,12 +8,12 @@ const newFields = `<label>
             <input type="number" name="delay" required min="0" />
             <span class="arrow-up arrow">
               <svg width="16" height="16">
-                <use href="./img/sprite.svg#icon-arrow-up"></use>
+                <use href="./sprite.svg#icon-arrow-up"></use>
               </svg>
             </span>
             <span class="arrow-down arrow">
               <svg width="16" height="16">
-                <use href="./img/sprite.svg#icon-arrow-down"></use>
+                <use href="./sprite.svg#icon-arrow-down"></use>
               </svg>
             </span>
           </div>
@@ -31,7 +31,7 @@ const newFields = `<label>
             />
             <span class="custom">
               <svg class="icon-custom-rectangle" width="12" height="12">
-                <use href="./img/sprite.svg#icon-rectangle"></use>
+                <use href="./sprite.svg#icon-rectangle"></use>
               </svg>
             </span>
             Fulfilled
@@ -46,7 +46,7 @@ const newFields = `<label>
             />
             <span class="custom">
               <svg class="icon-custom-rectangle" width="12" height="12">
-                <use href="./img/sprite.svg#icon-rectangle"></use>
+                <use href="./sprite.svg#icon-rectangle"></use>
               </svg>
             </span>
             Rejected
